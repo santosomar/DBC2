@@ -1,4 +1,4 @@
-requests>=2.11
+requests>=2.32.4
 tabulate
 pycrypto
 pyscrypt
